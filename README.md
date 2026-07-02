@@ -57,15 +57,7 @@
 </p>
 <br><br>
 
-<div align="center">
- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
-   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/baf52aa6-ff71-412d-9607-db8feb17874b" width="75">&nbsp;
+
 
 </div>
  
