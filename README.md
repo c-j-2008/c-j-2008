@@ -50,12 +50,11 @@
 
 <br><br>
 
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=c-j-2008&theme=gotham" /><br>
-  <img src="https://streak-stats.demolab.com/?user=c-j-2008&theme=gotham" /><br>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=c-j-2008&theme=gotham&layout=compact" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=c-j-2008&theme=gotham&hide_border=false&include_all_commits=true&count_private=false" /><br/>
+  <img src="https://streak-stats.demolab.com/?user=c-j-2008&theme=gotham&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=c-j-2008&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+</p>
 <br><br>
 
 <div align="center">
